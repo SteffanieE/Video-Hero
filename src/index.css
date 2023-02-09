@@ -37,3 +37,8 @@ video{
   height: 100%;
   background-color: rgba(0,0,0,.4);
 }
+
+
+section{
+  margin: 5%;
+}
